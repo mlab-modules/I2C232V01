@@ -1,0 +1,13 @@
+description: null
+github_branch: I2C232V01A
+github_repo: I2C232V01
+github_url: https://github.com/mlab-modules/I2C232V01
+homepage: false
+images:
+- doc/img/I2C232V01A_top_small.jpg
+- doc/img/I2C232V01A_top_big.jpg
+- doc/img/20161030_102500.jpg
+- doc/img/I2C232V01A_QRcode.png
+mark: 50
+tags: []
+title: I2C232V01
