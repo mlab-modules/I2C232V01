@@ -9,5 +9,7 @@ images:
 - doc/img/20161030_102500.jpg
 - doc/img/I2C232V01A_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: I2C232V01
