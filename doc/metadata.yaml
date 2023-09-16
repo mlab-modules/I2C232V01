@@ -5,8 +5,8 @@ github_url: https://github.com/mlab-modules/I2C232V01
 homepage: false
 images:
 - doc/img/I2C232V01A_top_small.jpg
-- doc/img/I2C232V01A_top_big.jpg
 - doc/img/20161030_102500.jpg
+- doc/img/I2C232V01A_top_big.jpg
 - doc/img/I2C232V01A_QRcode.png
 mark: 50
 status: 0
