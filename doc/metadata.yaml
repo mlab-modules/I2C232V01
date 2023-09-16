@@ -9,6 +9,7 @@ images:
 - doc/img/20161030_102500.jpg
 - doc/img/I2C232V01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
