@@ -1,4 +1,6 @@
-description: null
+description: The base module is an integrated circuit SC18IM700, who works as a converter
+  I2C / UART. I2C interface acts as the master. I2C can be used to speed 400kbit /
+  Sau UART can be up to 460.8 kbit / s.
 github_branch: I2C232V01A
 github_repo: I2C232V01
 github_url: https://github.com/mlab-modules/I2C232V01
